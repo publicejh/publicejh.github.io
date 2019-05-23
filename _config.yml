@@ -1,9 +1,9 @@
 # Site/SEO settings
-email: 
+email: ejh@naver.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
+title: Publicejh Blog
 description: 
 url: ""
 baseurl: ""
@@ -15,7 +15,7 @@ name:
 profile_img: 
 profile: 
 social:
-  github: 
+  github: "https://github.com/publicejh"
 
 # Build settings
 markdown: kramdown
