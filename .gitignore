@@ -35,4 +35,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Custom
+.bundle/
+.idea/
+
 # End of https://www.gitignore.io/api/macos,jekyll
